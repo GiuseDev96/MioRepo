@@ -1,1 +1,2 @@
 Esercitazione git
+Ciao
