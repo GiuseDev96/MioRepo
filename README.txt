@@ -1,1 +1,1 @@
-Esercitazione git txt
+Esercitazione git
